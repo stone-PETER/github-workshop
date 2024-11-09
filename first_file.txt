@@ -1,3 +1,2 @@
 this is another file
-this is another line
-this is the last line
+this file has been edited
